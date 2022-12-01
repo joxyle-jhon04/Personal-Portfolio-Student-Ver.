@@ -1,0 +1,73 @@
+body {
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    margin: 0;
+    background-color: aquamarine;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../0/images/bg0.avif");
+}
+
+.profile {
+    border-radius: 50%;
+    border: 5px solid rgb(84, 84, 46);
+    margin-top: 10px;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.Description {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+    color: white;
+    margin: 10px 5px;
+    text-align: left;
+
+}
+
+.Description h3 {
+    font-size: 25px;
+    text-align: left;
+}
+
+.col-md-4 {
+    background-color: rgb(8, 8, 8, 0.3);
+    height: 1500px;
+    border:3px solid rgb(84, 84, 46);
+    border-radius: 20px;
+}
+
+.col-md-7 {
+    padding: 5%;
+    background-color: rgba(0, 0, 0, 0.3);
+    margin: 10px 10px;
+    border:3px solid rgb(84, 84, 46);
+    border-radius: 20px;
+    color: aliceblue;
+    
+
+}
+
+.experience {
+    background-color: rgb(0, 0, 0, 0.3);
+    margin-top: 10%;
+    padding: 10px;
+    border-radius: 10px;
+    color: yellow;
+}
+
+ul, li {
+    color:aliceblue
+}
+
+nav, .navbar {
+    background-color: rgb(82, 82, 46, 0.5);
+}
+
+.navbar-brand {
+    color: yellow;
+}
